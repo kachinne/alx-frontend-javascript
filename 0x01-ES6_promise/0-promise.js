@@ -6,3 +6,4 @@ function getFullResponseFromAPI(apiEndpoint) {
 }
 // Export the function for external use
 export default getFullResponseFromAPI;
+
